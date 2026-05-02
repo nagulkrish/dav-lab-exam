@@ -1,0 +1,10 @@
+Step,Rows,Retention_%
+Original,6547252,100.0
+After date fix,6547235,100.0
+After missing removal,5980883,91.3
+After bad fares,5899549,90.1
+After 0 passengers,5827798,89.0
+After bad durations,5764434,88.0
+After 0-distance,5748191,87.8
+After month filter,5748167,87.8
+After outliers,5748077,87.8
